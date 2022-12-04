@@ -1,1 +1,1 @@
-max integer
+divisible by 2
