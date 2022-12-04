@@ -1,1 +1,1 @@
-divisible by 2
+print py list info
