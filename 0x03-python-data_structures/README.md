@@ -1,1 +1,1 @@
-new in list
+function that removes all characters c from c
