@@ -1,1 +1,1 @@
-args
+fast alpha ascii
