@@ -1,1 +1,1 @@
-inline
+print in python
