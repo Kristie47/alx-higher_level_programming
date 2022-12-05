@@ -1,1 +1,1 @@
-hidden 4
+variable load
