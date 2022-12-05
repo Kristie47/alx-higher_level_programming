@@ -1,1 +1,1 @@
-easy print
+magic calc
