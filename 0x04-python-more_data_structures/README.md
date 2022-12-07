@@ -1,1 +1,1 @@
-weight avg
+square matrix map
