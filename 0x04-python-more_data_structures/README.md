@@ -1,1 +1,1 @@
-uniq add
+weight avg
