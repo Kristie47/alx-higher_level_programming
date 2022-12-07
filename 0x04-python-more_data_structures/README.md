@@ -1,1 +1,1 @@
-square matrix map
+complete delete
