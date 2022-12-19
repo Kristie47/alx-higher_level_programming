@@ -1,1 +1,1 @@
-raise exception
+raise message
