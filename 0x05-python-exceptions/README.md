@@ -1,1 +1,1 @@
-list divisiob
+raise exception
