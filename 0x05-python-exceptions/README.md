@@ -1,1 +1,1 @@
-safe print int err
+safe fctn
