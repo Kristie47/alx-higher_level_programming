@@ -1,1 +1,1 @@
-safe print integers
+1 safe print
