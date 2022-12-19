@@ -1,1 +1,1 @@
-safe fctn
+magic calc
