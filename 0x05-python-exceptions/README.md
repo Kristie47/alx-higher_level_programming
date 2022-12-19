@@ -1,1 +1,1 @@
-safe print division
+list divisiob
