@@ -1,1 +1,1 @@
-raise message
+safe print int err
