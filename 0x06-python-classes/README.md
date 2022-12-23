@@ -1,1 +1,1 @@
-6 square
+class Node that defines a node of a singly linked list
