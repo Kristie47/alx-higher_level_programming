@@ -1,1 +1,1 @@
-class square that defines a sq based on 1 square
+class Square that defines a square based on 2 square
