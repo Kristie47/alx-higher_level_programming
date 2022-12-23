@@ -1,1 +1,1 @@
-5 sq
+6 square
