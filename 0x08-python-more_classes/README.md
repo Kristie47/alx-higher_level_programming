@@ -1,1 +1,1 @@
-5 rectangle
+6 rectangle
