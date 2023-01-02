@@ -1,1 +1,1 @@
-9 rectangle
+101 nqueens chess
