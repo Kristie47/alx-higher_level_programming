@@ -1,1 +1,1 @@
-rectangle
+1 rectangle
