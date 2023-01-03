@@ -1,1 +1,1 @@
-Copy a list object
+locked class
