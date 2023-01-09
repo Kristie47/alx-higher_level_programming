@@ -1,1 +1,1 @@
-sameclass
+kinda class
