@@ -1,1 +1,1 @@
-inherits
+base geo
