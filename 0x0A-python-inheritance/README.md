@@ -1,1 +1,1 @@
-sq2
+my int
