@@ -1,1 +1,1 @@
-kinda class
+inherits
